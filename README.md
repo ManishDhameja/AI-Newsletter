@@ -31,6 +31,15 @@ pipenv run python crew.py
 
 ---
 
+## 🔐 Environment Variables
+
+Make sure to add your API keys in a .env file in the project root:
+
+GROQ_API_KEY=your_groq_api_key
+SERPER_API_KEY=your_serper_api_key
+
+---
+
 ## 🛠️ Tech Stack
 
 - **LLaMA-3** – LLM for generating and refining content
